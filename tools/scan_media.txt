@@ -1,0 +1,17 @@
+ROOT: 我的手机
+START: media
++ com.huawei.hwid
++ com.easy.abroad
++ com.whatsapp
+    + WhatsApp
+        + Media
+        + .Shared
+        + .StickerThumbs
+        + Backups
+        + .trash
+        + Databases
+        + .Thumbs
++ com.coze.space
+    + CozeSpace
++ com.hkyl.xfgjjsqrj
+TOTAL AUDIO IN SUBTREE: 0

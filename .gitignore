@@ -1,0 +1,46 @@
+.venv/
+__pycache__/
+out/
+sample_drop/
+drop/studio/
+drop/live/
+# ---- 凭据 / 隐私 ----
+.env
+.env.*
+!.env.example
+*token*
+*secret*
+*cred*
+*.pem
+*.key
+*.db
+*.sqlite
+*.sqlite3
+# ---- 依赖 / 构建 / 缓存 ----
+node_modules/
+.venv/
+venv/
+dist/
+build/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+cache/
+logs/
+*.log
+# ---- 二进制 / 媒体 ----
+*.exe
+*.dll
+*.bin
+*.mp3
+*.mp4
+*.wav
+*.so
+*.pyd
+*.zip
+*.tar
+*.gz
+experiment/out/
+tools/*.exe

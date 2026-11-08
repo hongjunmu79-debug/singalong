@@ -1,0 +1,1185 @@
+TOTAL FILES: 1147
+TOTAL SIZE GB: 2.39
+TRUNCATED: False
+
+=== TOP DIRECTORIES ===
+   292  D:\老文件\song
+    96  D:\老文件\过往文件\学科\新概念\新概念2
+    59  D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版
+    59  D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版
+    27  D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜
+    27  D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜
+    27  D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media
+    23  D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest
+    23  D:\hermes-agents\director\workspace\TangerineWin\dist\selftest
+    22  D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data
+    21  D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒
+    21  D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒
+    20  D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒
+    20  D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒
+    19  D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media
+    19  D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命
+    19  D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命
+    19  D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media
+    17  D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接
+    17  D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接
+    17  D:\项目\agentpage\vp-voice-pet\samples
+    16  D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云
+    16  D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云
+    15  D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命
+    15  D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命
+
+=== FILES ===
+### D:\
+D:\AppGallery\WeMeet\3.30.30.420\resources\raw\countdown.mp3 | 0.02 MB
+D:\AppGallery\WeMeet\3.30.30.420\resources\raw\countdown_end.mp3 | 0.02 MB
+D:\AppGallery\WeMeet\3.30.30.420\resources\raw\meeting_short_prompt_audio.wav | 0.03 MB
+D:\AppGallery\WeMeet\3.30.30.420\resources\raw\multi_device_join_meeting_sound.wav | 0.05 MB
+D:\AppGallery\WeMeet\3.30.30.420\resources\raw\ringing.wav | 2.59 MB
+D:\AppGallery\WeMeet\3.30.30.420\resources\raw\ringing_short.mp3 | 0.12 MB
+D:\AppGallery\WeMeet\3.30.30.420\resources\raw\speaker_test_sound.mp3 | 0.01 MB
+D:\BaiduNetdiskDownload\94vksqf7zq7-2021-10-29(19-27-44)\html\assets\krp\music\blank.mp3 | 0 MB
+D:\Claude Code 工作区\agents\agent-workspace\static\tts\latest.mp3 | 0.04 MB
+D:\Claude Code 工作区\agents\agent-workspace\_verify\beep.wav | 0.01 MB
+D:\Claude Code 工作区\agents\agent-workspace\_verify\test_tts.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\agent-workspace\_verify\tts_check.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\9月5日.m4a | 142.84 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\early_brief_pipeline\test_ping.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\early_brief_pipeline\今日早报_整合.mp3 | 2.55 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\early_brief_pipeline\早报_2026-06-01.mp3 | 1.17 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\early_brief_pipeline\闪报.mp3 | 0.43 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_000.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_001.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_002.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_003.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_004.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_005.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_006.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_007.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_008.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_009.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_010.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_011.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_012.m4a | 10.69 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\segments\seg_013.m4a | 3.74 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (2).flac | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (3).flac | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (4).flac | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (5).flac | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (6).flac | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (7).flac | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC.flac | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (10).mp3 | 0.05 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (11).mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (12).mp3 | 0.05 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (13).mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (14).mp3 | 0.05 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (2).mp3 | 0.05 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (3).mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (4).mp3 | 0.05 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (5).mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (6).mp3 | 0.05 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (7).mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (8).mp3 | 0.05 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (9).mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample.wav | 0.08 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\verify\sample - FLAC.flac | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\verify\sample - MP3 (2).mp3 | 0.05 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\verify\sample - MP3.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\verify\sample.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\verify\sample.wav | 0.08 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\verify2\sample - FLAC.flac | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\verify2\sample - MP3 (2).mp3 | 0.05 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\verify2\sample - MP3.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\verify2\sample.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\TangerineWin\dist\verify2\sample.wav | 0.08 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\transc_chunks\chunk_0000.wav | 7.32 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\transc_chunks\chunk_0001.wav | 7.32 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\transc_chunks\chunk_0002.wav | 7.32 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\transc_chunks\chunk_0003.wav | 7.32 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\transc_chunks\chunk_0004.wav | 7.32 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\transc_chunks\chunk_0005.wav | 7.32 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\transc_chunks\chunk_0006.wav | 7.32 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\transc_chunks\chunk_0007.wav | 7.32 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\transc_chunks\chunk_0008.wav | 7.32 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\transc_chunks\chunk_0009.wav | 7.32 MB
+D:\Claude Code 工作区\agents\hermes-agents\director\workspace\transc_chunks\chunk_0010.wav | 1.4 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\000.mp3 | 0.08 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\001.mp3 | 0.07 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\002.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\003.mp3 | 0.1 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\004.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\005.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\006.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\007.mp3 | 0.13 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\008.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\009.mp3 | 0.1 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\010.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\011.mp3 | 0.13 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\012.mp3 | 0.04 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\013.mp3 | 0.1 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\014.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\015.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\016.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\017.mp3 | 0.17 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\018.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\019.mp3 | 0.11 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\020.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\021.mp3 | 0.11 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\022.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\023.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\024.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\025.mp3 | 0.11 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\026.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\027.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\028.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\029.mp3 | 0.12 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\030.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\031.mp3 | 0.09 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\032.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\033.mp3 | 0.15 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\034.mp3 | 0.04 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\035.mp3 | 0.11 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\036.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\037.mp3 | 0.13 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\038.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\039.mp3 | 0.12 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\040.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\041.mp3 | 0.12 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\042.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\043.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\044.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\045.mp3 | 0.11 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\046.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\047.mp3 | 0.15 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\048.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\049.mp3 | 0.13 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\050.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\051.mp3 | 0.1 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\052.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\053.mp3 | 0.11 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\054.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\055.mp3 | 0.1 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\056.mp3 | 0.08 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\057.mp3 | 0.07 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\058.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\000.mp3 | 0.1 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\001.mp3 | 0.1 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\002.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\003.mp3 | 0.12 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\004.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\005.mp3 | 0.17 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\006.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\007.mp3 | 0.11 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\008.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\009.mp3 | 0.13 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\010.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\011.mp3 | 0.09 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\012.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\013.mp3 | 0.15 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\014.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\015.mp3 | 0.09 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\016.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\017.mp3 | 0.12 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\018.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\019.mp3 | 0.17 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\020.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\021.mp3 | 0.15 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\022.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\023.mp3 | 0.13 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\024.mp3 | 0.08 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\025.mp3 | 0.11 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\026.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\000.mp3 | 0.1 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\001.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\002.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\003.mp3 | 0.15 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\004.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\005.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\006.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\007.mp3 | 0.12 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\008.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\009.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\010.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\011.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\012.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\013.mp3 | 0.15 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\014.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\015.mp3 | 0.12 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\016.mp3 | 0.05 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\017.mp3 | 0.13 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\018.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\000.mp3 | 0.07 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\001.mp3 | 0.13 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\002.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\003.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\004.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\005.mp3 | 0.2 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\006.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\007.mp3 | 0.12 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\008.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\009.mp3 | 0.17 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\010.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\011.mp3 | 0.15 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\012.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\013.mp3 | 0.15 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\014.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\015.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\016.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\017.mp3 | 0.1 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\018.mp3 | 0.04 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\019.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\020.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\000.mp3 | 0.08 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\001.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\002.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\003.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\004.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\005.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\006.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\007.mp3 | 0.15 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\008.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\009.mp3 | 0.18 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\010.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\011.mp3 | 0.12 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\012.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\013.mp3 | 0.15 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\014.mp3 | 0.04 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\000.mp3 | 0.08 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\001.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\002.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\003.mp3 | 0.12 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\004.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\005.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\006.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\007.mp3 | 0.17 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\008.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\009.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\010.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\011.mp3 | 0.11 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\012.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\013.mp3 | 0.15 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\014.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\015.mp3 | 0.13 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\016.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\000.mp3 | 0.04 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\001.mp3 | 0.11 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\002.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\003.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\004.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\005.mp3 | 0.17 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\006.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\007.mp3 | 0.17 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\008.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\009.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\010.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\011.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\012.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\013.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\014.mp3 | 0.04 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\015.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\000.mp3 | 0.06 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\001.mp3 | 0.22 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\002.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\003.mp3 | 0.16 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\004.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\005.mp3 | 0.13 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\006.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\007.mp3 | 0.21 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\008.mp3 | 0.03 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\009.mp3 | 0.19 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\010.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\011.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\012.mp3 | 0.02 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\013.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\014.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\015.mp3 | 0.14 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\016.mp3 | 0.08 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\017.mp3 | 0.2 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\018.mp3 | 0.1 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\019.mp3 | 0.01 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\output\ep00-精华版.mp3 | 4.33 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\output\ep01-计算的前夜.mp3 | 2.06 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\output\ep02-硬件革命.mp3 | 1.59 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\output\ep03-软件觉醒.mp3 | 1.75 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\output\ep04-PC革命.mp3 | 1.28 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\output\ep05-网络连接.mp3 | 1.33 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\output\ep06-移动与云.mp3 | 1.25 MB
+D:\Claude Code 工作区\agents\hermes-agents\inforadar\workspace\podcast\output\ep07-AI觉醒.mp3 | 1.92 MB
+D:\Claude Code 工作区\projects\mosaico-firmware\skills\brainstorm\assets\audio\end.mp3 | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-firmware\skills\brainstorm\assets\audio\hat_black.mp3 | 0.06 MB
+D:\Claude Code 工作区\projects\mosaico-firmware\skills\brainstorm\assets\audio\hat_blue.mp3 | 0.07 MB
+D:\Claude Code 工作区\projects\mosaico-firmware\skills\brainstorm\assets\audio\hat_green.mp3 | 0.06 MB
+D:\Claude Code 工作区\projects\mosaico-firmware\skills\brainstorm\assets\audio\hat_red.mp3 | 0.07 MB
+D:\Claude Code 工作区\projects\mosaico-firmware\skills\brainstorm\assets\audio\hat_white.mp3 | 0.08 MB
+D:\Claude Code 工作区\projects\mosaico-firmware\skills\brainstorm\assets\audio\hat_yellow.mp3 | 0.07 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\esp-mosaico-bsp\examples\gmf_audio_player\main\alarm.mp3 | 0.03 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\esp-mosaico-bsp\examples\tower_defense\assets_src\build.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\esp-mosaico-bsp\examples\tower_defense\assets_src\explosion.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\esp-mosaico-bsp\examples\tower_defense\assets_src\game_over.wav | 0.03 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\esp-mosaico-bsp\examples\tower_defense\assets_src\hit.wav | 0 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\esp-mosaico-bsp\examples\tower_defense\assets_src\leak.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\esp-mosaico-bsp\examples\tower_defense\assets_src\music.wav | 0.18 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\esp-mosaico-bsp\examples\tower_defense\assets_src\shot.wav | 0 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\esp-mosaico-bsp\examples\tower_defense\assets_src\wave.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\living_worlds\assets_src\aurora_wind_ice.wav | 0.91 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\living_worlds\assets_src\ocean_ambience.wav | 0.82 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\living_worlds\assets_src\rainforest_ambience.wav | 0.82 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\living_worlds\assets_src\sunrise_wind.wav | 0.82 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\neon_rift_rally\assets_src\boost.wav | 0.02 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\neon_rift_rally\assets_src\checkpoint.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\neon_rift_rally\assets_src\collision.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\neon_rift_rally\assets_src\drift.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\neon_rift_rally\assets_src\engine.wav | 0.09 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\neon_rift_rally\assets_src\finish.wav | 0.05 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\neon_rift_rally\assets_src\jump.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\neon_rift_rally\assets_src\land.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\neon_rift_rally\assets_src\lap.wav | 0.03 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\neon_rift_rally\assets_src\offtrack.wav | 0.02 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\tower_defense\assets_src\build.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\tower_defense\assets_src\explosion.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\tower_defense\assets_src\game_over.wav | 0.03 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\tower_defense\assets_src\hit.wav | 0 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\tower_defense\assets_src\leak.wav | 0.01 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\tower_defense\assets_src\music.wav | 0.18 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\tower_defense\assets_src\shot.wav | 0 MB
+D:\Claude Code 工作区\projects\mosaico-vibe-ws\submodule\raylib-lite-engine\examples\tower_defense\assets_src\wave.wav | 0.01 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-1234Hz-le-1ch-10S-20bit-extra.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-44100Hz-2ch-32bit-float-be.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-44100Hz-2ch-32bit-float-le.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-44100Hz-be-1ch-4bytes.wav | 0.02 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-44100Hz-le-1ch-4bytes-early-eof-no-data.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-44100Hz-le-1ch-4bytes-early-eof.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-44100Hz-le-1ch-4bytes-incomplete-chunk.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-44100Hz-le-1ch-4bytes-rf64.wav | 0.02 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-44100Hz-le-1ch-4bytes.wav | 0.02 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-48000Hz-2ch-64bit-float-le-wavex.wav | 0.01 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-be-3ch-5S-24bit.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-le-1ch-1byte-ulaw.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-le-2ch-1byteu.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-le-3ch-5S-24bit-inconsistent.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-le-3ch-5S-24bit-rf64.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-le-3ch-5S-24bit.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-le-3ch-5S-36bit.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-le-3ch-5S-45bit.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-le-3ch-5S-53bit.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-le-3ch-5S-64bit.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-le-4ch-9S-12bit.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\.venv\Lib\site-packages\scipy\io\tests\data\test-8000Hz-le-5ch-9S-5bit.wav | 0 MB
+D:\Claude Code 工作区\projects\singalong\experiment\sample_drop\studio\Attention.wav | 1.47 MB
+D:\Claude Code 工作区\projects\singalong\experiment\sample_drop\studio\How Long.wav | 1.47 MB
+D:\Claude Code 工作区\projects\singalong\experiment\sample_drop\studio\Left and Right.wav | 1.47 MB
+D:\Claude Code 工作区\projects\singalong\experiment\sample_drop\studio\One Call Away.wav | 1.47 MB
+D:\Claude Code 工作区\projects\singalong\experiment\sample_drop\studio\That's Hilarious.wav | 1.47 MB
+D:\Claude Code 工作区\projects\singalong\experiment\sample_drop\studio\We Don't Talk Anymore.wav | 1.47 MB
+D:\espressif\esp-idf\examples\peripherals\dac\dac_continuous\dac_audio\tools\hi_idf_audio.wav | 0.18 MB
+D:\hermes-agents\director\workspace\9月5日.m4a | 142.84 MB
+D:\hermes-agents\director\workspace\early_brief_pipeline\test_ping.mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\early_brief_pipeline\今日早报_整合.mp3 | 2.55 MB
+D:\hermes-agents\director\workspace\early_brief_pipeline\早报_2026-06-01.mp3 | 1.17 MB
+D:\hermes-agents\director\workspace\early_brief_pipeline\闪报.mp3 | 0.43 MB
+D:\hermes-agents\director\workspace\segments\seg_000.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_001.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_002.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_003.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_004.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_005.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_006.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_007.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_008.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_009.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_010.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_011.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_012.m4a | 10.69 MB
+D:\hermes-agents\director\workspace\segments\seg_013.m4a | 3.74 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (2).flac | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (3).flac | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (4).flac | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (5).flac | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (6).flac | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC (7).flac | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - FLAC.flac | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (10).mp3 | 0.05 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (11).mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (12).mp3 | 0.05 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (13).mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (14).mp3 | 0.05 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (2).mp3 | 0.05 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (3).mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (4).mp3 | 0.05 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (5).mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (6).mp3 | 0.05 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (7).mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (8).mp3 | 0.05 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3 (9).mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample - MP3.mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample.mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\selftest\sample.wav | 0.08 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\verify\sample - FLAC.flac | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\verify\sample - MP3 (2).mp3 | 0.05 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\verify\sample - MP3.mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\verify\sample.mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\verify\sample.wav | 0.08 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\verify2\sample - FLAC.flac | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\verify2\sample - MP3 (2).mp3 | 0.05 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\verify2\sample - MP3.mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\verify2\sample.mp3 | 0.02 MB
+D:\hermes-agents\director\workspace\TangerineWin\dist\verify2\sample.wav | 0.08 MB
+D:\hermes-agents\director\workspace\transc_chunks\chunk_0000.wav | 7.32 MB
+D:\hermes-agents\director\workspace\transc_chunks\chunk_0001.wav | 7.32 MB
+D:\hermes-agents\director\workspace\transc_chunks\chunk_0002.wav | 7.32 MB
+D:\hermes-agents\director\workspace\transc_chunks\chunk_0003.wav | 7.32 MB
+D:\hermes-agents\director\workspace\transc_chunks\chunk_0004.wav | 7.32 MB
+D:\hermes-agents\director\workspace\transc_chunks\chunk_0005.wav | 7.32 MB
+D:\hermes-agents\director\workspace\transc_chunks\chunk_0006.wav | 7.32 MB
+D:\hermes-agents\director\workspace\transc_chunks\chunk_0007.wav | 7.32 MB
+D:\hermes-agents\director\workspace\transc_chunks\chunk_0008.wav | 7.32 MB
+D:\hermes-agents\director\workspace\transc_chunks\chunk_0009.wav | 7.32 MB
+D:\hermes-agents\director\workspace\transc_chunks\chunk_0010.wav | 1.4 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\000.mp3 | 0.08 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\001.mp3 | 0.07 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\002.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\003.mp3 | 0.1 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\004.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\005.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\006.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\007.mp3 | 0.13 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\008.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\009.mp3 | 0.1 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\010.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\011.mp3 | 0.13 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\012.mp3 | 0.04 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\013.mp3 | 0.1 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\014.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\015.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\016.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\017.mp3 | 0.17 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\018.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\019.mp3 | 0.11 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\020.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\021.mp3 | 0.11 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\022.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\023.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\024.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\025.mp3 | 0.11 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\026.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\027.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\028.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\029.mp3 | 0.12 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\030.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\031.mp3 | 0.09 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\032.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\033.mp3 | 0.15 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\034.mp3 | 0.04 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\035.mp3 | 0.11 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\036.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\037.mp3 | 0.13 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\038.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\039.mp3 | 0.12 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\040.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\041.mp3 | 0.12 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\042.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\043.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\044.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\045.mp3 | 0.11 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\046.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\047.mp3 | 0.15 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\048.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\049.mp3 | 0.13 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\050.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\051.mp3 | 0.1 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\052.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\053.mp3 | 0.11 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\054.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\055.mp3 | 0.1 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\056.mp3 | 0.08 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\057.mp3 | 0.07 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep00-精华版\058.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\000.mp3 | 0.1 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\001.mp3 | 0.1 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\002.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\003.mp3 | 0.12 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\004.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\005.mp3 | 0.17 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\006.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\007.mp3 | 0.11 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\008.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\009.mp3 | 0.13 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\010.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\011.mp3 | 0.09 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\012.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\013.mp3 | 0.15 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\014.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\015.mp3 | 0.09 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\016.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\017.mp3 | 0.12 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\018.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\019.mp3 | 0.17 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\020.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\021.mp3 | 0.15 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\022.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\023.mp3 | 0.13 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\024.mp3 | 0.08 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\025.mp3 | 0.11 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep01-计算的前夜\026.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\000.mp3 | 0.1 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\001.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\002.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\003.mp3 | 0.15 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\004.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\005.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\006.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\007.mp3 | 0.12 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\008.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\009.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\010.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\011.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\012.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\013.mp3 | 0.15 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\014.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\015.mp3 | 0.12 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\016.mp3 | 0.05 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\017.mp3 | 0.13 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep02-硬件革命\018.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\000.mp3 | 0.07 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\001.mp3 | 0.13 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\002.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\003.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\004.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\005.mp3 | 0.2 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\006.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\007.mp3 | 0.12 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\008.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\009.mp3 | 0.17 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\010.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\011.mp3 | 0.15 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\012.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\013.mp3 | 0.15 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\014.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\015.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\016.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\017.mp3 | 0.1 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\018.mp3 | 0.04 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\019.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep03-软件觉醒\020.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\000.mp3 | 0.08 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\001.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\002.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\003.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\004.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\005.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\006.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\007.mp3 | 0.15 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\008.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\009.mp3 | 0.18 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\010.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\011.mp3 | 0.12 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\012.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\013.mp3 | 0.15 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep04-PC革命\014.mp3 | 0.04 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\000.mp3 | 0.08 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\001.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\002.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\003.mp3 | 0.12 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\004.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\005.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\006.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\007.mp3 | 0.17 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\008.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\009.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\010.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\011.mp3 | 0.11 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\012.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\013.mp3 | 0.15 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\014.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\015.mp3 | 0.13 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep05-网络连接\016.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\000.mp3 | 0.04 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\001.mp3 | 0.11 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\002.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\003.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\004.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\005.mp3 | 0.17 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\006.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\007.mp3 | 0.17 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\008.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\009.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\010.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\011.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\012.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\013.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\014.mp3 | 0.04 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep06-移动与云\015.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\000.mp3 | 0.06 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\001.mp3 | 0.22 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\002.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\003.mp3 | 0.16 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\004.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\005.mp3 | 0.13 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\006.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\007.mp3 | 0.21 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\008.mp3 | 0.03 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\009.mp3 | 0.19 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\010.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\011.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\012.mp3 | 0.02 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\013.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\014.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\015.mp3 | 0.14 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\016.mp3 | 0.08 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\017.mp3 | 0.2 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\018.mp3 | 0.1 MB
+D:\hermes-agents\inforadar\workspace\podcast\audio_segments\ep07-AI觉醒\019.mp3 | 0.01 MB
+D:\hermes-agents\inforadar\workspace\podcast\output\ep00-精华版.mp3 | 4.33 MB
+D:\hermes-agents\inforadar\workspace\podcast\output\ep01-计算的前夜.mp3 | 2.06 MB
+D:\hermes-agents\inforadar\workspace\podcast\output\ep02-硬件革命.mp3 | 1.59 MB
+D:\hermes-agents\inforadar\workspace\podcast\output\ep03-软件觉醒.mp3 | 1.75 MB
+D:\hermes-agents\inforadar\workspace\podcast\output\ep04-PC革命.mp3 | 1.28 MB
+D:\hermes-agents\inforadar\workspace\podcast\output\ep05-网络连接.mp3 | 1.33 MB
+D:\hermes-agents\inforadar\workspace\podcast\output\ep06-移动与云.mp3 | 1.25 MB
+D:\hermes-agents\inforadar\workspace\podcast\output\ep07-AI觉醒.mp3 | 1.92 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\break.mp3 | 0.04 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\chatEditModifiedFile.mp3 | 0.02 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\clear.mp3 | 0.03 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\diffLineDeleted.mp3 | 0.04 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\diffLineInserted.mp3 | 0.04 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\diffLineModified.mp3 | 0.04 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\done1.mp3 | 0.02 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\editsKept.mp3 | 0.05 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\editsUndone.mp3 | 0.03 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\error.mp3 | 0.04 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\foldedAreas.mp3 | 0.02 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\format.mp3 | 0.04 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\progress.mp3 | 0.03 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\quickFixes.mp3 | 0.03 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\requestSent.mp3 | 0.04 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\responseReceived1.mp3 | 0.03 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\responseReceived2.mp3 | 0.03 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\responseReceived3.mp3 | 0.03 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\responseReceived4.mp3 | 0.03 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\save.mp3 | 0.03 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\success.mp3 | 0.02 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\taskCompleted.mp3 | 0.06 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\taskFailed.mp3 | 0.07 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\terminalBell.mp3 | 0.03 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\voiceRecordingStarted.mp3 | 0.03 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\voiceRecordingStopped.mp3 | 0.02 MB
+D:\应用程序\cursor\resources\app\out\vs\platform\accessibilitySignal\browser\media\warning.mp3 | 0.04 MB
+D:\应用程序\Feishu\8.5.3\assets\audio\notify-at-new.wav | 0.27 MB
+D:\应用程序\Feishu\8.5.3\assets\audio\notify-normal-new.wav | 0.3 MB
+D:\应用程序\Feishu\8.5.3\assets\audio\notify-special_focus-new.wav | 0.76 MB
+D:\应用程序\Feishu\8.5.3\assets\audio\notify-urgent-new.wav | 0.15 MB
+D:\应用程序\Feishu\8.5.3\iron\audio\countdown_end.mp3 | 0.01 MB
+D:\应用程序\Feishu\8.5.3\iron\audio\countdown_end.wav | 0.17 MB
+D:\应用程序\Feishu\8.5.3\iron\audio\countdown_remind.mp3 | 0.01 MB
+D:\应用程序\Feishu\8.5.3\iron\audio\countdown_remind.wav | 0.15 MB
+D:\应用程序\Feishu\8.5.3\iron\audio\dialing.wav | 0.47 MB
+D:\应用程序\Feishu\8.5.3\iron\audio\join.wav | 0.11 MB
+D:\应用程序\Feishu\8.5.3\iron\audio\leave.wav | 0.23 MB
+D:\应用程序\Feishu\8.5.3\iron\audio\speaker-test.wav | 0.44 MB
+D:\应用程序\Feishu\8.5.3\webcontent\messenger-vc\media\347f47b77b.wav | 0.19 MB
+D:\应用程序\Feishu\8.5.3\webcontent\messenger-vc\media\d4a46922e4.wav | 0.19 MB
+D:\应用程序\Feishu\app\assets\audio\notify-at-new.wav | 0.27 MB
+D:\应用程序\Feishu\app\assets\audio\notify-normal-new.wav | 0.3 MB
+D:\应用程序\Feishu\app\assets\audio\notify-special_focus-new.wav | 0.76 MB
+D:\应用程序\Feishu\app\assets\audio\notify-urgent-new.wav | 0.15 MB
+D:\应用程序\Feishu\app\iron\audio\countdown_end.mp3 | 0.01 MB
+D:\应用程序\Feishu\app\iron\audio\countdown_end.wav | 0.17 MB
+D:\应用程序\Feishu\app\iron\audio\countdown_remind.mp3 | 0.01 MB
+D:\应用程序\Feishu\app\iron\audio\countdown_remind.wav | 0.15 MB
+D:\应用程序\Feishu\app\iron\audio\dialing.wav | 0.47 MB
+D:\应用程序\Feishu\app\iron\audio\join.wav | 0.11 MB
+D:\应用程序\Feishu\app\iron\audio\leave.wav | 0.23 MB
+D:\应用程序\Feishu\app\iron\audio\speaker-test.wav | 0.44 MB
+D:\应用程序\Feishu\app\webcontent\messenger-vc\media\347f47b77b.wav | 0.19 MB
+D:\应用程序\Feishu\app\webcontent\messenger-vc\media\d4a46922e4.wav | 0.19 MB
+D:\应用程序\Movavi Video Editor Plus 2020\resources\samples\notifications\error.wav | 0.24 MB
+D:\应用程序\Movavi Video Editor Plus 2020\resources\samples\notifications\finish.wav | 0.49 MB
+D:\应用程序\Movavi Video Editor Plus 2020\resources\sounds\clickdown.wav | 0 MB
+D:\应用程序\Movavi Video Editor Plus 2020\resources\sounds\clickup.wav | 0 MB
+D:\应用程序\Movavi Video Editor Plus 2020\resources\sounds\notifications\convertationFailed.wav | 0.24 MB
+D:\应用程序\Movavi Video Editor Plus 2020\resources\sounds\notifications\convertationSuccess.wav | 0.43 MB
+D:\应用程序\Movavi Video Editor Plus 2020\resources\sounds\notifications\takeScreenshot.wav | 0.12 MB
+D:\应用程序\Thunder\program\download-complete.wav | 0.02 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\cloudref\audiopreview.mp3 | 0.08 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\countdown\countdown.mp3 | 0.02 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\applause.wav | 0.03 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\arrow.wav | 0.02 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\bomb.wav | 0.19 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\breeze.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\camera.wav | 0.01 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\cashreg.wav | 0.01 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\chimes.wav | 0.04 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\click.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\coin.wav | 0.01 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\drumroll.wav | 0.02 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\explode.wav | 0.02 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\hammer.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\laser.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\push.wav | 0.02 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\suction.wav | 0.01 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\type.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\voltage.wav | 0.01 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\whoosh.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.28505\office6\mui\default\resource\media\wind.wav | 0.01 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\cloudref\audiopreview.mp3 | 0.08 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\countdown\countdown.mp3 | 0.02 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\applause.wav | 0.03 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\arrow.wav | 0.02 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\bomb.wav | 0.19 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\breeze.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\camera.wav | 0.01 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\cashreg.wav | 0.01 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\chimes.wav | 0.04 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\click.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\coin.wav | 0.01 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\drumroll.wav | 0.02 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\explode.wav | 0.02 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\hammer.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\laser.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\push.wav | 0.02 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\suction.wav | 0.01 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\type.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\voltage.wav | 0.01 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\whoosh.wav | 0 MB
+D:\应用程序\WPS Office\12.1.0.29161\office6\mui\default\resource\media\wind.wav | 0.01 MB
+D:\应用程序\WXWork\5.0.8.6009\sound\closecall.wav | 0.03 MB
+D:\应用程序\WXWork\5.0.8.6009\sound\memberchange_enter.wav | 0.38 MB
+D:\应用程序\WXWork\5.0.8.6009\sound\msgRemSound.wav | 0.01 MB
+D:\应用程序\WXWork\5.0.8.6009\sound\other_is_in_system_call.wav | 0.12 MB
+D:\应用程序\WXWork\5.0.8.6009\sound\video_call.wav | 0.09 MB
+D:\应用程序\WXWork\5.0.8.6009\WeMeet\3.26.508.633\resources\raw\countdown.mp3 | 0.02 MB
+D:\应用程序\WXWork\5.0.8.6009\WeMeet\3.26.508.633\resources\raw\countdown_end.mp3 | 0.02 MB
+D:\应用程序\WXWork\5.0.8.6009\WeMeet\3.26.508.633\resources\raw\meeting_short_prompt_audio.wav | 0.03 MB
+D:\应用程序\WXWork\5.0.8.6009\WeMeet\3.26.508.633\resources\raw\multi_device_join_meeting_sound.wav | 0.05 MB
+D:\应用程序\WXWork\5.0.8.6009\WeMeet\3.26.508.633\resources\raw\ringing.wav | 2.59 MB
+D:\应用程序\WXWork\5.0.8.6009\WeMeet\3.26.508.633\resources\raw\ringing_short.mp3 | 0.12 MB
+D:\应用程序\WXWork\5.0.8.6009\WeMeet\3.26.508.633\resources\raw\speaker_test_sound.mp3 | 0.01 MB
+D:\应用程序\百度网盘\BaiduNetdisk\sounds\1.wav | 0.04 MB
+D:\应用程序\百度网盘\BaiduNetdisk\sounds\2.wav | 0.37 MB
+D:\应用程序\百度网盘\BaiduNetdisk\sounds\3.wav | 0.12 MB
+D:\应用程序\百度网盘\BaiduNetdisk\sounds\4.wav | 0.12 MB
+D:\老文件\QMDownload\MobileFile\生日快乐.aac | 1.07 MB
+D:\老文件\song\1908公社 - 七月的风，八月的雨 (原版) [mqms2].mp3 | 2.98 MB
+D:\老文件\song\221小伙伴 - 遥远的你 (正式版) [mqms2].mp3 | 8.26 MB
+D:\老文件\song\3mal1 - S.O.S. - Herz in Not (Radio-Edit) [mqms2].mp3 | 7.99 MB
+D:\老文件\song\3unshine&3Bangz - 好肉 [mqms2].mp3 | 7.8 MB
+D:\老文件\song\5音 - 麻雀 (Cover 李荣浩) [mqms2].mp3 | 3.05 MB
+D:\老文件\song\A-Lin&郎朗 - Moon River (月亮河) [mqms2].mp3 | 5.1 MB
+D:\老文件\song\Activ - Doar Cu Tine (Win Remix) [mqms2].mp3 | 3.13 MB
+D:\老文件\song\Activ - DOAR CU TINE [mqms2].mp3 | 8.06 MB
+D:\老文件\song\Adna - Night [mqms2].mp3 | 3.67 MB
+D:\老文件\song\Aimer (エメ) - Refrain [mqms2].mp3 | 4.43 MB
+D:\老文件\song\Aimer (エメ) - words [mqms2].mp3 | 5.41 MB
+D:\老文件\song\Alexander Jean - Whiskey and Morphine [mqms2].mp3 | 4.66 MB
+D:\老文件\song\Alexander Klaws&Daniel Küblbck - Cry On My Shoulder [mqms2].mp3 | 3.63 MB
+D:\老文件\song\Alida - Feathers [mqms2].mp3 | 3.53 MB
+D:\老文件\song\Andrew Belle - Oh My Stars [mqms2].mp3 | 4.61 MB
+D:\老文件\song\Antonio De Lucena - 爱的罗曼史 [mqms].mp3 | 2.34 MB
+D:\老文件\song\Asher Monroe - Here With You [mqms2].mp3 | 8.6 MB
+D:\老文件\song\Ava Max - Salt (Syn Cole Remix) [mqms2].mp3 | 2.92 MB
+D:\老文件\song\Avril Lavigne - Innocence [mqms2](1).mp3 | 3.56 MB
+D:\老文件\song\Avril Lavigne - Innocence [mqms2].mp3 | 3.56 MB
+D:\老文件\song\Bater official - You (Cover：Approaching Nirvana) [mqms2].mp3 | 4.03 MB
+D:\老文件\song\Blonde Redhead - Golden Light [mqms2].mp3 | 6.16 MB
+D:\老文件\song\Boyce Avenue - Señorita [mqms2].mp3 | 6.1 MB
+D:\老文件\song\BWO - Sunshine In The Rain [mqms2].mp3 | 3.18 MB
+D:\老文件\song\Camera Obscura - I Love How You Love Me [mqms2].mp3 | 2 MB
+D:\老文件\song\Celtic Thunder - The Sound of Silence [mqms2].mp3 | 2.87 MB
+D:\老文件\song\Chris James - Not Angry [mqms2].mp3 | 7.62 MB
+D:\老文件\song\Chuck Berry - You Never Can Tell [mqms2].mp3 | 6.22 MB
+D:\老文件\song\Classical Artists - Sonata No. 2 in B-Flat Minor for Piano,  [mqms2].mp3 | 7.56 MB
+D:\老文件\song\Classical Artists - 卡农 (Canon) [mqms].mp3 | 5.6 MB
+D:\老文件\song\Classical Artists - 帕格尼尼狂想曲 (Рапсодия на тему Паганини) [mqms2].mp3 | 2.99 MB
+D:\老文件\song\Classical Artists - 幻想即兴曲 (Fantasy improvisation) [mqms2].mp3 | 4.21 MB
+D:\老文件\song\Classical Artists - 莫扎特摇篮曲 (Lullaby from Mozart) [mqms].mp3 | 2.73 MB
+D:\老文件\song\Classical Artists - 鋼琴協奏曲三 [mqms2].mp3 | 10.18 MB
+D:\老文件\song\Classical Artists&Franz Liszt - 李斯特第一钢琴协奏曲 [mqms].mp3 | 23.65 MB
+D:\老文件\song\cococola - 后来遇见他 [mqms2].mp3 | 3.2 MB
+D:\老文件\song\Dance Monkey - Dance Monkey [mqms2].mp3 | 3.21 MB
+D:\老文件\song\DEAMN - Save Me [mqms2].mp3 | 2.81 MB
+D:\老文件\song\Deepmaniak - Something Just Like This (Remix) [mqms2].mp3 | 4.43 MB
+D:\老文件\song\DJ阳光 - [非常一首歌]林俊杰致敬抗疫一线Stay With You (节目) [mqms].mp3 | 5.28 MB
+D:\老文件\song\Eliane - Tik Tok [mqms2].mp3 | 2.94 MB
+D:\老文件\song\Elliot Van Coup - Any Song(Tik Tok Dance Challenge Version)[ [mqms2].mp3 | 7.21 MB
+D:\老文件\song\Elliott Yamin - Wait for You [mqms2].mp3 | 3.99 MB
+D:\老文件\song\Elsa Kopf - Candy street [mqms2].mp3 | 2.84 MB
+D:\老文件\song\Emily and The Woods - Never Play [mqms2].mp3 | 2.58 MB
+D:\老文件\song\Eminem&Rihanna - Love The Way You Lie [mqms2].mp3 | 4.02 MB
+D:\老文件\song\Fun.&Janelle Monáe - We Are Young [mqms2].mp3 | 3.83 MB
+D:\老文件\song\G.E.M. 邓紫棋 - 光年之外 [mqms2].mp3 | 3.59 MB
+D:\老文件\song\G.E.M. 邓紫棋 - 岩石里的花 [mqms2].mp3 | 4.49 MB
+D:\老文件\song\G2er - 还有我 [mqms2].mp3 | 3.45 MB
+D:\老文件\song\Gareth Gates - Anyone Of Us (Stupid Mistake) [mqms2].mp3 | 3.46 MB
+D:\老文件\song\Gavin James&Alan Walker - Always (Alan Walker Remix) [mqms2].mp3 | 7.48 MB
+D:\老文件\song\Glenn Gould - Goldberg Variations, BWV 988 Aria [mqms2].mp3 | 1.73 MB
+D:\老文件\song\Glenn Medeiros - Nothing Gonna Change MY Love For you [mqms2].mp3 | 3.54 MB
+D:\老文件\song\Groove Coverage - God Is A Girl (Album Version) [mqms2].mp3 | 2.82 MB
+D:\老文件\song\Groove Coverage - She [mqms2].mp3 | 3.51 MB
+D:\老文件\song\Guns N' Roses - Live and Let Die [mqms2].mp3 | 11.2 MB
+D:\老文件\song\Hawk Nelson - Sold Out [mqms2].mp3 | 3.25 MB
+D:\老文件\song\Holly Throsby - We Are Good People But Why Don't We Show It [mqms2].mp3 | 3.43 MB
+D:\老文件\song\IN-K&王忻辰 - 落差 [mqms2].mp3 | 3.52 MB
+D:\老文件\song\Jem - Yellow [mqms2].mp3 | 3.76 MB
+D:\老文件\song\Jocelyn Pook&Russian Red - Loving Strangers [mqms2].mp3 | 3.65 MB
+D:\老文件\song\Joel Hanson - Traveling Light [mqms2].mp3 | 3.18 MB
+D:\老文件\song\John Williams - Prelude No. 1 in E Minor - Andantino express [mqms2].mp3 | 3.87 MB
+D:\老文件\song\Josh Ritter - Darlin [mqms2].mp3 | 3.06 MB
+D:\老文件\song\Katie Sky - Monsters [mqms2].mp3 | 3.33 MB
+D:\老文件\song\Katy B - Crying for No Reason [mqms2].mp3 | 3.71 MB
+D:\老文件\song\Katy Perry - Firework [mqms2].mp3 | 3.47 MB
+D:\老文件\song\Kelly Clarkson - Stronger (What Doesn't Kill You) [mqms2].mp3 | 3.39 MB
+D:\老文件\song\Ken Arai (ケン アライ) - IF [mqms2].mp3 | 3.28 MB
+D:\老文件\song\K￥LLER&福克斯 - Why We Fight [mqms2].mp3 | 3.3 MB
+D:\老文件\song\Lenka - Trouble Is A Friend [mqms2].mp3 | 3.29 MB
+D:\老文件\song\Lewis Capaldi - Someone You Loved (Live) [mqms].mp3 | 3.08 MB
+D:\老文件\song\LokLok Piano - 白月光与朱砂痣 (钢琴版) [mqms2].mp3 | 3.4 MB
+D:\老文件\song\Lola Coca - GQ [mqms2].mp3 | 2.49 MB
+D:\老文件\song\Maksim Mrvica - 克罗地亚狂想曲 [mqms2].mp3 | 3.26 MB
+D:\老文件\song\Manotett - Felt Like You (Nebbra Sourz Remix) [mqms2].mp3 | 3.67 MB
+D:\老文件\song\Marconi Union - Weightless [mqms2].mp3 | 18.46 MB
+D:\老文件\song\Mariah Carey&Whitney Houston - When You Believe [mqms2].mp3 | 4.17 MB
+D:\老文件\song\Matthew Lien - Bressanone [mqms2].mp3 | 5.1 MB
+D:\老文件\song\Matthew Lien - 布列瑟农 [mqms2].mp3 | 5 MB
+D:\老文件\song\Mia Wray - Send Me Your Love (Goldwave Edit) [mqms2].mp3 | 3.79 MB
+D:\老文件\song\Michael Bublé - Home [mqms2].mp3 | 3.45 MB
+D:\老文件\song\Michael Learns To Rock - Take Me To Your Heart [mqms2].mp3 | 9.11 MB
+D:\老文件\song\Michael Learns To Rock - That's Why You Go Away [mqms2].mp3 | 3.86 MB
+D:\老文件\song\Mukyo木西 - 御剑缘 [mqms2].mp3 | 8.77 MB
+D:\老文件\song\Mukyo木西 - 玄月奇缘 [mqms2].mp3 | 8.68 MB
+D:\老文件\song\mxmtoon - i feel like chet [mqms2].mp3 | 6.99 MB
+D:\老文件\song\Nicholis Louw - Anyone Of Us [mqms].mp3 | 3.5 MB
+D:\老文件\song\Nicolas de Angelis - 莫扎特：第40交响曲 [mqms2].mp3 | 7.45 MB
+D:\老文件\song\Nigel Stanford - Near Centaurus [mqms2].mp3 | 9.14 MB
+D:\老文件\song\Olly Murs - That Girl [mqms2].mp3 | 2.7 MB
+D:\老文件\song\Pay Phone - Payphone [mqms2].mp3 | 3.53 MB
+D:\老文件\song\Pegato&Walk Off The Earth - Summer Vibe (Pegato Remix) [mqms2].mp3 | 3.26 MB
+D:\老文件\song\Peter Hollens - 1989 in 4 Minutes [mqms2].mp3 | 3.8 MB
+D:\老文件\song\Pianoboy高至豪 - The Truth That You Leave [mqms2](1).mp3 | 3.41 MB
+D:\老文件\song\Pianoboy高至豪 - The Truth That You Leave [mqms2].mp3 | 3.41 MB
+D:\老文件\song\Pop Tracks - Try [mqms2].mp3 | 3.77 MB
+D:\老文件\song\Pure Music - 贝多芬狂想曲 [mqms].mp3 | 6.41 MB
+D:\老文件\song\RADWIMPS (ラッドウィンプス) - 前前前世 (Movie ver.) [mqms2].mp3 | 4.34 MB
+D:\老文件\song\Rag'N'Bone Man - Skin [mqms2].mp3 | 3.66 MB
+D:\老文件\song\Richard Clayderman - 梦中的婚礼 (钢琴曲) [mqms2].mp3 | 2.49 MB
+D:\老文件\song\Richard Sanderson - Reality [mqms2].mp3 | 4.52 MB
+D:\老文件\song\Rod Stewart - Sometimes When We Touch [mqms2].mp3 | 4.07 MB
+D:\老文件\song\Sara Lov - My Body Is a Cage [mqms2].mp3 | 4.27 MB
+D:\老文件\song\Sara Nussara Pungprasert - เจอกับตัวเอง...ถึงรู้ [mqms2].mp3 | 3.68 MB
+D:\老文件\song\Sarah Engels - If [mqms2].mp3 | 3.1 MB
+D:\老文件\song\School of Seven Bells - On My Heart [mqms2].mp3 | 3.93 MB
+D:\老文件\song\SG Lewis&Clairo - Throwaway [mqms2].mp3 | 6.87 MB
+D:\老文件\song\Sigala - Sweet Lovin' [mqms2].mp3 | 3.11 MB
+D:\老文件\song\SING女团 - 野狼Disco (国风版) [mqms2].mp3 | 8.82 MB
+D:\老文件\song\Sinéad O'Connor - Reason With Me [mqms2].mp3 | 3.66 MB
+D:\老文件\song\T-ara (티아라) - DAY BY DAY (Japanese ver.) [mqms2].mp3 | 3.2 MB
+D:\老文件\song\Talla 2XLC - Eternal Rhapsody (Ode to Marino Mix) [mqms2].mp3 | 5.81 MB
+D:\老文件\song\Taylor Swift - Innocent [mqms2].mp3 | 4.63 MB
+D:\老文件\song\Taylor Swift - Love Story [mqms2].mp3 | 3.61 MB
+D:\老文件\song\Taylor Swift - We Are Never Ever Getting Back Together [mqms2].mp3 | 2.95 MB
+D:\老文件\song\Terry Zhong 钟天利 - SJLT x 红色高跟鞋 (Terry Zhong Mashup) (原唱蔡健雅) [mqms2].mp3 | 3.41 MB
+D:\老文件\song\The Afters - Life Is Beautiful [mqms2].mp3 | 3.55 MB
+D:\老文件\song\The Beatles Tribute Band - Hey Jude [mqms2].mp3 | 11.42 MB
+D:\老文件\song\The Stars - Calendar Girl [mqms].mp3 | 3.78 MB
+D:\老文件\song\TheFatRat&Maisy Kay - The Storm [mqms2].mp3 | 6.43 MB
+D:\老文件\song\Trish Trang - The Day You Went Away [mqms2].mp3 | 3.4 MB
+D:\老文件\song\Twenty One Pilots - Tear In My Heart [mqms2].mp3 | 2.88 MB
+D:\老文件\song\Two Steps From Hell - Jump! [mqms2].mp3 | 10.55 MB
+D:\老文件\song\Uu - 自卑感 [mqms2].mp3 | 2.94 MB
+D:\老文件\song\Uu - 那女孩对我说 (完整版) [mqms2].mp3 | 10.71 MB
+D:\老文件\song\Various Artists - 克罗地亚第三狂想曲 [mqms].mp3 | 3.12 MB
+D:\老文件\song\Various Artists - 克罗地亚第二狂想曲 [mqms2].mp3 | 2.85 MB
+D:\老文件\song\VaVa毛衍七&王以太&Dok2 (도끼) - Life Is Beautiful [mqms2].mp3 | 10.95 MB
+D:\老文件\song\Westlife - Beautiful World [mqms2].mp3 | 3.69 MB
+D:\老文件\song\Westlife - Soledad [mqms2].mp3 | 3.62 MB
+D:\老文件\song\William Joseph - Be Still My Soul [mqms2].mp3 | 3.82 MB
+D:\老文件\song\Wiz Khalifa&Charlie Puth - See You Again [mqms2].mp3 | 8.76 MB
+D:\老文件\song\ZAYN&Taylor Swift - I Don't Wanna Live Forever (Fifty Shades [mqms2].mp3 | 3.75 MB
+D:\老文件\song\「S制造」群星&永彬Ryan.B&都智文&谢宇伦&洛松维 - 炙热阳光 (S制造群星) [mqms2].mp3 | 10.14 MB
+D:\老文件\song\三维鱼乐队 - 灿烂 [mqms2].mp3 | 4.83 MB
+D:\老文件\song\丛铭君 - 听说 [mqms2].mp3 | 3.96 MB
+D:\老文件\song\东方无界组合 - 只为你 [mqms2].mp3 | 3.77 MB
+D:\老文件\song\中国有嘻哈 - 月之匙狂想曲 (Live) [mqms2].mp3 | 4.61 MB
+D:\老文件\song\予笙 - 我吹过你吹过的晚风 [mqms2].mp3 | 3.23 MB
+D:\老文件\song\于萍 - 莱茵河之恋 [mqms2].mp3 | 3.76 MB
+D:\老文件\song\仇志 - 静悄悄 [mqms2].mp3 | 2.83 MB
+D:\老文件\song\任然 - 无人之岛 [mqms2].mp3 | 4.35 MB
+D:\老文件\song\任贤齐 - 伤心太平洋 + 心太软 + 我是一只鱼 + 对面的女孩看过来 (Live) [mqms2].mp3 | 4.81 MB
+D:\老文件\song\伊格赛听&叶里 - 谪仙 [mqms2].mp3 | 2.72 MB
+D:\老文件\song\何炅&谢娜&易烊千玺 - 朋友请听好 [mqms2].mp3 | 8.79 MB
+D:\老文件\song\信乐团 - 死了都要爱 [mqms2].mp3 | 4.11 MB
+D:\老文件\song\光良 - 第一次 [mqms2].mp3 | 10.05 MB
+D:\老文件\song\全璟璟 - 解脱 [mqms].mp3 | 4.07 MB
+D:\老文件\song\冯提莫 - 元气满满 [mqms2].mp3 | 2.46 MB
+D:\老文件\song\刘森 - 新歌声2剧透  郭沁击败叶炫清获那英组冠军 [mqms].mp3 | 9.6 MB
+D:\老文件\song\刘珂矣 - 半壶纱 [mqms2].mp3 | 4.08 MB
+D:\老文件\song\刘若英 - 后来 [mqms2].mp3 | 5.21 MB
+D:\老文件\song\华晨宇 - Here We Are [mqms2].mp3 | 4.43 MB
+D:\老文件\song\华语群星&孟庭苇&关喆&白小白&ONER岳岳&ONER木子洋 - 炙热阳光 (群星版) [mqms2].mp3 | 10.07 MB
+D:\老文件\song\双笙 - 一世倾心 [mqms2].mp3 | 9.3 MB
+D:\老文件\song\古剑奇谭 - 下辈子 [mqms].mp3 | 2.73 MB
+D:\老文件\song\叶炫清 - 为爱诛仙 (伴奏)[weiyun].mp3 | 3.87 MB
+D:\老文件\song\叶炫清 - 为爱诛仙[weiyun].mp3 | 3.87 MB
+D:\老文件\song\叶炫清 - 九张机[weiyun].mp3 | 3.36 MB
+D:\老文件\song\叶炫清 - 偏执 [mqms].mp3 | 3.88 MB
+D:\老文件\song\叶炫清 - 空荡城堡[weiyun].mp3 | 4.42 MB
+D:\老文件\song\叶炫清 - 红线[weiyun].mp3 | 3.33 MB
+D:\老文件\song\叶炫清 - 风一样的我[weiyun].mp3 | 3.89 MB
+D:\老文件\song\司南 - 冬眠 [mqms2].mp3 | 10.29 MB
+D:\老文件\song\吕小雨&孙泽源 - 时光与你都很甜 [mqms2].mp3 | 9.32 MB
+D:\老文件\song\吴嘉怡 - 我吹过你吹过的晚风 [mqms2].mp3 | 3.2 MB
+D:\老文件\song\周杰伦 - Mojito [mqms2].mp3 | 2.82 MB
+D:\老文件\song\周杰伦 - 蓝色风暴 [mqms2].mp3 | 4.39 MB
+D:\老文件\song\周杰伦 - 说好不哭with 五月天阿信 [mqms2].mp3 | 8.48 MB
+D:\老文件\song\周杰伦&詹宇豪 - 逆鳞狂想曲 (Live) [mqms].mp3 | 3.26 MB
+D:\老文件\song\周深 - 渴望遇见 [mqms2].mp3 | 11.7 MB
+D:\老文件\song\回小仙 - 醒不来的梦 [mqms2].mp3 | 3.55 MB
+D:\老文件\song\大籽 - 白月光与朱砂痣 [mqms2].mp3 | 3.12 MB
+D:\老文件\song\孙楠 - 缘分的天空 [mqms2].mp3 | 4.2 MB
+D:\老文件\song\孙泽源 - 身边 [mqms2].mp3 | 8.05 MB
+D:\老文件\song\宝石Gem - 出征大风歌 [mqms2].mp3 | 7.48 MB
+D:\老文件\song\寒霜之声 - 《最近》我们的一切早就已结束 [mqms].mp3 | 10.77 MB
+D:\老文件\song\小乐哥 - 执迷不悟 (DJ版) [mqms2].mp3 | 3.75 MB
+D:\老文件\song\小虎队 - 爱 [mqms2].mp3 | 4.11 MB
+D:\老文件\song\屿汐学长 - 烟火里的尘埃 (Live) [mqms2].mp3 | 4.92 MB
+D:\老文件\song\师欣 - 小幸运 (The Best Ending) [mqms2].mp3 | 10.38 MB
+D:\老文件\song\庄心妍 - 流着泪说分手 [mqms].mp3 | 3.81 MB
+D:\老文件\song\张信哲 - 爱你没错 [mqms2].mp3 | 3.9 MB
+D:\老文件\song\张杰 - 剑心 [mqms2].mp3 | 3.85 MB
+D:\老文件\song\张杰 - 年轻的战场 [mqms2](1).mp3 | 4.47 MB
+D:\老文件\song\张杰 - 年轻的战场 [mqms2].mp3 | 4.44 MB
+D:\老文件\song\张浩泽 - 不必在乎我是谁 (Live) [mqms2].mp3 | 10.23 MB
+D:\老文件\song\张碧晨 - 心欲止水 [mqms2].mp3 | 10.38 MB
+D:\老文件\song\张艺兴 - NAMANANA (Remix) [mqms2].mp3 | 7.43 MB
+D:\老文件\song\张艺兴 - 会好的 [mqms2].mp3 | 3.21 MB
+D:\老文件\song\张远 - 我没有如果 [mqms2].mp3 | 3.61 MB
+D:\老文件\song\张靓颖 - The Diva Dance (Live) [mqms2].mp3 | 4.45 MB
+D:\老文件\song\张韶涵 - 淋雨一直走 [mqms2].mp3 | 3.13 MB
+D:\老文件\song\房东的猫 - 云烟成雨 [mqms2].mp3 | 3.68 MB
+D:\老文件\song\摩登兄弟刘宇宁 - 昨日少年 [mqms2].mp3 | 3.81 MB
+D:\老文件\song\无限王者团 - 迎难而上 [mqms2].mp3 | 10.06 MB
+D:\老文件\song\是七叔呢&DJ黑桃A - 燕无歇DJ黑桃Afeat.是七叔呢 [mqms2].mp3 | 1.85 MB
+D:\老文件\song\暗杠 - 童话镇 [mqms2].mp3 | 3.82 MB
+D:\老文件\song\曲肖冰 - 厚颜无耻 [mqms2].mp3 | 2.84 MB
+D:\老文件\song\曲艳娇 - 天亮以前说再见 [mqms2].mp3 | 3.75 MB
+D:\老文件\song\朱主爱 - Hello 5G (Radio MIX) [mqms2].mp3 | 2.57 MB
+D:\老文件\song\李宇春&肖战 - 岁岁平安 [mqms2].mp3 | 8 MB
+D:\老文件\song\李易峰 - 剑伤 [mqms2].mp3 | 3.16 MB
+D:\老文件\song\李荣浩 - 同根 [mqms2].mp3 | 10.15 MB
+D:\老文件\song\李菲音乐 - 人间星河 Starry River on Earth 纯享版 [mqms2].mp3 | 8.86 MB
+D:\老文件\song\李闰珉 (이루마) - River Flows in You [mqms2].mp3 | 3.33 MB
+D:\老文件\song\杜小仙er - PLANET (中文版) [mqms2].mp3 | 9.21 MB
+D:\老文件\song\杨小壮 - 一个人挺好 [mqms2].mp3 | 4.12 MB
+D:\老文件\song\杨小壮 - 逞强 [mqms2].mp3 | 3.21 MB
+D:\老文件\song\林俊杰 - 爱笑的眼睛 [mqms2].mp3 | 9.68 MB
+D:\老文件\song\林小珂 - 尘埃 [mqms2].mp3 | 4.32 MB
+D:\老文件\song\林小珂 - 爱，存在 [mqms2].mp3 | 4.35 MB
+D:\老文件\song\林志炫 - 单身情歌 [mqms2].mp3 | 4.2 MB
+D:\老文件\song\枯木逢春 - 这一生关于你的风景 [mqms2].mp3 | 3.89 MB
+D:\老文件\song\梦涵 - 17岁 [mqms2].mp3 | 9.24 MB
+D:\老文件\song\橙大蕾蕾 - 质数的孤独 [mqms2].mp3 | 4.47 MB
+D:\老文件\song\欧阳娜娜 - 一心一念 [mqms2].mp3 | 7.59 MB
+D:\老文件\song\欧阳娜娜&Maksim Mrvica - Victory (Live) [mqms].mp3 | 3.42 MB
+D:\老文件\song\毛不易 - 无问 [mqms2].mp3 | 3.95 MB
+D:\老文件\song\毛不易 - 红莓花儿开 [mqms2].mp3 | 10.02 MB
+D:\老文件\song\毛不易 - 逆风 [mqms2].mp3 | 4.44 MB
+D:\老文件\song\水木年华 - Like A Man [mqms].mp3 | 3.58 MB
+D:\老文件\song\汪睿 - 幸福了 然后呢 (Live) [mqms2].mp3 | 2.78 MB
+D:\老文件\song\汪苏泷 - 少年战 [mqms2].mp3 | 8.74 MB
+D:\老文件\song\法老&宁大人&张迪 - I'm not a killer [mqms2].mp3 | 3.18 MB
+D:\老文件\song\海伦 - 桥边姑娘 [mqms2].mp3 | 6.99 MB
+D:\老文件\song\海哲明 - 迷人的危险 (Live) [mqms2].mp3 | 1.12 MB
+D:\老文件\song\火箭少女101紫宁 - 云边 [mqms2].mp3 | 10.66 MB
+D:\老文件\song\牛奶咖啡 - 越长大越孤单 [mqms2].mp3 | 4.1 MB
+D:\老文件\song\王俊凯&关晓彤&黄晓明&张艺兴&惠若琪&经超&韩栋&吉克隽逸 - 我们心在一起 [mqms2].mp3 | 10.33 MB
+D:\老文件\song\王俊凯&谢霆锋&萧敬腾 - 保重 [mqms2].mp3 | 9.75 MB
+D:\老文件\song\王力宏&田桐&成龙&李光洁&肖战&吴京&沈腾&宋佳&杨培安 - 坚信爱会赢 [mqms2].mp3 | 11.13 MB
+D:\老文件\song\王天戈 - 心安理得 [mqms2].mp3 | 4.11 MB
+D:\老文件\song\王梦瑶 - 不变的音乐 (抖音版) [mqms2].mp3 | 4.92 MB
+D:\老文件\song\王靖雯不胖 - 不知所措 [mqms2].mp3 | 3.79 MB
+D:\老文件\song\王靖雯不胖 - 永不失联的爱 [mqms2].mp3 | 4.22 MB
+D:\老文件\song\简弘亦 - 等一树花开 [mqms2].mp3 | 7.62 MB
+D:\老文件\song\简迷离 - Hi未來 [mqms2].mp3 | 7.9 MB
+D:\老文件\song\网络歌手 - 克罗地亚第四狂想曲 [mqms].mp3 | 3.41 MB
+D:\老文件\song\群星 - 莫札特：第40号交响曲 [mqms2].mp3 | 6.88 MB
+D:\老文件\song\胖虎小姐姐 - 年轮说 (Cover：杨丞琳) [mqms2].mp3 | 4.07 MB
+D:\老文件\song\胡66 - 后来遇见他 [mqms2].mp3 | 3.81 MB
+D:\老文件\song\胡彦斌 - 天谕 [mqms2].mp3 | 3.87 MB
+D:\老文件\song\胡彦斌 - 枕边人 [mqms2].mp3 | 10.3 MB
+D:\老文件\song\舒淇 - 一生所爱 (国语) [mqms2].mp3 | 2.95 MB
+D:\老文件\song\苏诗丁 - 缘字书 [mqms2].mp3 | 9.2 MB
+D:\老文件\song\莫文蔚 - 他不爱我 [mqms2].mp3 | 3.65 MB
+D:\老文件\song\萧全 - 海草舞 (铃声) [mqms].mp3 | 0.68 MB
+D:\老文件\song\萧全 - 海草舞 [mqms2].mp3 | 10.57 MB
+D:\老文件\song\薛之谦 - 演员 [mqms2].mp3 | 3.99 MB
+D:\老文件\song\薛之谦&欧阳娜娜 - 小幸运 (Live) [mqms2].mp3 | 10.21 MB
+D:\老文件\song\誓言 - 求佛 [mqms2].mp3 | 4.37 MB
+D:\老文件\song\许乐 - 勇气 [mqms].mp3 | 3.54 MB
+D:\老文件\song\许飞 - 敬你 (demo) [mqms2].mp3 | 7.89 MB
+D:\老文件\song\贰婶&清弄 - 前世今生 [mqms2].mp3 | 3.95 MB
+D:\老文件\song\迪丽热巴&汪苏泷 - 偏偏 [mqms2].mp3 | 9.19 MB
+D:\老文件\song\逃跑计划 - 伟大的友谊 [mqms2].mp3 | 7.5 MB
+D:\老文件\song\郎朗 - 莫扎特A大调第11号钢琴奏鸣曲 (Live) [mqms2].mp3 | 2.04 MB
+D:\老文件\song\郎朗&Madeleine Peyroux - Moon River (月亮河) [mqms2].mp3 | 5.1 MB
+D:\老文件\song\郑云龙 - 他们说 [mqms2].mp3 | 8.43 MB
+D:\老文件\song\郑承焕 (정승환) - 눈사람 (雪人) [mqms2].mp3 | 3.6 MB
+D:\老文件\song\郭静 - 青春不打烊 [mqms2].mp3 | 8.41 MB
+D:\老文件\song\郭静&宁桓宇 - I’m Falling in Love [mqms2].mp3 | 6.92 MB
+D:\老文件\song\都智文 - 来自星星 [mqms2].mp3 | 3.39 MB
+D:\老文件\song\都智文 - 走散 [mqms2].mp3 | 7.28 MB
+D:\老文件\song\金志文 - 剥落的时间 [mqms2].mp3 | 3.23 MB
+D:\老文件\song\金玟岐 - 不完美的完美 [mqms2].mp3 | 9.44 MB
+D:\老文件\song\阿YueYue - 云与海 [mqms2].mp3 | 3.94 MB
+D:\老文件\song\阿冗 - 你的答案 [mqms2].mp3 | 3.36 MB
+D:\老文件\song\阿肆&林宥嘉 - 致姗姗来迟的你 [mqms2].mp3 | 3.76 MB
+D:\老文件\song\陆虎 - 红尘不悔 [mqms2].mp3 | 8.47 MB
+D:\老文件\song\陈奕迅 - 让我留在你身边 [mqms2].mp3 | 2.88 MB
+D:\老文件\song\陈意涵Estelle - 我喜欢你 [mqms2].mp3 | 9.6 MB
+D:\老文件\song\陈戈&陈晶晶&陈思同&陈志斌&段思思&胡皓波&刘思言&莫艳琳 - 武汉伢 [mqms2].mp3 | 8.19 MB
+D:\老文件\song\陈曦 - 你一定要幸福 (男版) [mqms2].mp3 | 4.09 MB
+D:\老文件\song\陈柯宇 - 武汉加油藏尾歌 [mqms2].mp3 | 2.32 MB
+D:\老文件\song\陈雪凝 - 你的酒馆对我打了烊 [mqms2].mp3 | 3.84 MB
+D:\老文件\song\陈鸿宇 - 一如年少模样 [mqms2].mp3 | 10.03 MB
+D:\老文件\song\雷佳&王俊凯 - 武汉不孤单 [mqms2].mp3 | 10.63 MB
+D:\老文件\song\雷诺儿 - 别在我离开之前离开 [mqms2].mp3 | 3.64 MB
+D:\老文件\song\霍尊&金玟岐 - 原谅我年少不懂言语 [mqms2].mp3 | 9.54 MB
+D:\老文件\song\韩安旭 - 不在 [mqms2].mp3 | 3.91 MB
+D:\老文件\song\韩磊&佟丽娅 - 天使的阳光 [mqms2].mp3 | 9.73 MB
+D:\老文件\song\音阙诗听&小魂 - 立春 [mqms2].mp3 | 9.61 MB
+D:\老文件\song\馅儿 - 太多 [mqms2].mp3 | 4.59 MB
+D:\老文件\song\鹿晗&大张伟&Ella陈嘉桦&刘敏涛&潘玮柏&张丹峰 - 重返十七岁 [mqms2].mp3 | 3.75 MB
+D:\老文件\song\黄子韬 - 最好的我们 [mqms2].mp3 | 5.05 MB
+D:\老文件\song\黄旭 - 找自己 [mqms2].mp3 | 3.18 MB
+D:\老文件\song\黄霄雲 - 星辰大海 [mqms2].mp3 | 3.17 MB
+D:\老文件\song\齐晨 - 太阳 (正式版) [mqms2].mp3 | 3.94 MB
+D:\老文件\微信\文件\WeChat Files\wxid_ikez19owetxu22\FileStorage\File\2021-11\备选（2）.m4a | 4.09 MB
+D:\老文件\桌面\网易有道词典 2021-10-08 19-45-35.mp3 | 0.54 MB
+D:\老文件\桌面\网易有道词典 2021-10-10 21-42-07.mp3 | 1.13 MB
+D:\老文件\过往文件\吉他\19翻译杨涵.mp3 | 3.48 MB
+D:\老文件\过往文件\吉他\19翻译杨涵1.mp3 | 3.48 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-01.mp3 | 1.29 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-02.mp3 | 0.34 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-03.mp3 | 1.29 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-04.mp3 | 0.29 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-05.mp3 | 0.32 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-06.mp3 | 1.24 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-07.mp3 | 0.31 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-08.mp3 | 0.3 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-09.mp3 | 1.45 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-10.mp3 | 0.3 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-11.mp3 | 0.3 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-12.mp3 | 1.21 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-13.mp3 | 0.28 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-14.mp3 | 0.32 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-15.mp3 | 1.32 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-16.mp3 | 0.33 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-17.mp3 | 0.32 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-18.mp3 | 1.32 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-19.mp3 | 0.37 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-20.mp3 | 0.35 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-21.mp3 | 1.42 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-22.mp3 | 0.3 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-23.mp3 | 0.31 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-24.mp3 | 1.53 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-25.mp3 | 0.46 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-26.mp3 | 0.42 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-27.mp3 | 1.63 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-28.mp3 | 0.38 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-29.mp3 | 0.43 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-30.mp3 | 1.47 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-31.mp3 | 0.4 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-32.mp3 | 0.36 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-33.mp3 | 1.5 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-34.mp3 | 0.35 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-35.mp3 | 0.4 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-36.mp3 | 1.55 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-37.mp3 | 0.39 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-38.mp3 | 0.38 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-39.mp3 | 1.63 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-40.mp3 | 0.41 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-41.mp3 | 0.4 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-42.mp3 | 0.38 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-43.mp3 | 0.38 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-44.mp3 | 0.34 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-45.mp3 | 1.58 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-46.mp3 | 0.39 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-47.mp3 | 0.36 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-48.mp3 | 0.34 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-49.mp3 | 0.4 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-50.mp3 | 1.79 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-51.mp3 | 0.41 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-52.mp3 | 0.37 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-53.mp3 | 0.4 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-54.mp3 | 0.42 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-55.mp3 | 1.66 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-56.mp3 | 0.4 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-57.mp3 | 0.4 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-58.mp3 | 0.36 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-59.mp3 | 0.36 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-60.mp3 | 1.58 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-61.mp3 | 0.4 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-62.mp3 | 0.4 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-63.mp3 | 0.39 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-64.mp3 | 0.41 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-65.mp3 | 1.68 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-66.mp3 | 0.45 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-67.mp3 | 0.41 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-68.mp3 | 0.42 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-69.mp3 | 0.46 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-70.mp3 | 1.74 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-71.mp3 | 0.4 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-72.mp3 | 0.46 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-73.mp3 | 0.42 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-74.mp3 | 0.51 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-75.mp3 | 1.84 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-76.mp3 | 0.49 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-77.mp3 | 0.42 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-78.mp3 | 0.45 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-79.mp3 | 0.38 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-80.mp3 | 1.87 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-81.mp3 | 0.44 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-82.mp3 | 0.43 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-83.mp3 | 0.45 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-84.mp3 | 0.38 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-85.mp3 | 1.66 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-86.mp3 | 0.41 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-87.mp3 | 0.45 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-88.mp3 | 0.42 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-89.mp3 | 0.41 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-90.mp3 | 1.79 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-91.mp3 | 0.43 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-92.mp3 | 0.48 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-93.mp3 | 0.46 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-94.mp3 | 0.41 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-95.mp3 | 1.95 MB
+D:\老文件\过往文件\学科\新概念\新概念2\2-96.mp3 | 0.4 MB
+D:\项目\agentpage\vp-voice-pet\packages\pet\assets\sounds\complete.mp3 | 0.03 MB
+D:\项目\agentpage\vp-voice-pet\packages\pet\assets\sounds\confirm.mp3 | 0.02 MB
+D:\项目\agentpage\vp-voice-pet\packages\pet\assets\source\freesound-510287\deletraz-notification-hq.mp3 | 0.05 MB
+D:\项目\agentpage\vp-voice-pet\packages\pet\assets\source\freesound-538149\notification-hq.mp3 | 0.01 MB
+D:\项目\agentpage\vp-voice-pet\packages\pet\assets\source\freesound-704896\old-cell-end-call-hq.mp3 | 0.01 MB
+D:\项目\agentpage\vp-voice-pet\packages\pet\assets\source\freesound-840284\mobile-phone-notification-sound-hq.mp3 | 0.07 MB
+D:\项目\agentpage\vp-voice-pet\samples\mic-test.wav | 0.09 MB
+D:\项目\agentpage\vp-voice-pet\samples\stt-test-Xiaoyi.mp3 | 0.02 MB
+D:\项目\agentpage\vp-voice-pet\samples\stt-test-Xiaoyi.wav | 0.12 MB
+D:\项目\agentpage\vp-voice-pet\samples\stt-test-Yunxi.mp3 | 0.02 MB
+D:\项目\agentpage\vp-voice-pet\samples\stt-test-Yunxi.wav | 0.12 MB
+D:\项目\agentpage\vp-voice-pet\samples\wakeword-poscontrol.mp3 | 0.01 MB
+D:\项目\agentpage\vp-voice-pet\samples\wakeword-poscontrol.wav | 0.06 MB
+D:\项目\agentpage\vp-voice-pet\samples\wakeword-test.mp3 | 0.01 MB
+D:\项目\agentpage\vp-voice-pet\samples\wakeword-test.wav | 0.06 MB
+D:\项目\agentpage\vp-voice-pet\samples\副驾-XiaoxiaoNeural.mp3 | 0.03 MB
+D:\项目\agentpage\vp-voice-pet\samples\副驾-YunjianNeural.mp3 | 0.03 MB
+D:\项目\agentpage\vp-voice-pet\samples\副驾-YunxiNeural.mp3 | 0.03 MB
+D:\项目\agentpage\vp-voice-pet\samples\副驾-YunyangNeural.mp3 | 0.02 MB
+D:\项目\agentpage\vp-voice-pet\samples\萌系-XiaobeiNeural.mp3 | 0.03 MB
+D:\项目\agentpage\vp-voice-pet\samples\萌系-XiaoniNeural-替代Xiaozhen.mp3 | 0.03 MB
+D:\项目\agentpage\vp-voice-pet\samples\萌系-XiaoxiaoNeural-替代Multilingual.mp3 | 0.02 MB
+D:\项目\agentpage\vp-voice-pet\samples\萌系-XiaoyiNeural.mp3 | 0.03 MB
+### C:\Users\23715\Music
+### C:\Users\23715\Downloads
+### C:\Users\23715\Desktop
+### C:\Users\23715\Documents
+### C:\Users\Public\Music
